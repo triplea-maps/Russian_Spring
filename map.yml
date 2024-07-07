@@ -1,0 +1,4 @@
+map_name: Russian_Spring
+games:
+- {game_name: Russian_Spring, file_name: Russian_Spring.xml}
+version: 0
